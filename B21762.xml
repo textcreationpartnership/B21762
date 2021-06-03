@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>At the court at Whitehall, December the thirteenth, 1682. Present the Kings most excellent Majesty, Lord Archbishop of Canterbury ... [19 others] Mr. Godolphin. Whereas it has been represented to His Majesty, that by reason of the frequent abuses of a lewd sort of people called spirits, in seducing many of His Majesties subjects to go on shipboard, where they have been seized and carried by force to His Majesties plantations in America ...</title>
+            <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B21762</idno><idno type="EEBO-CITATION">99889317_193985</idno>
+  <idno type="VID">193985</idno>
+  <idno type="EEBO-PROQUEST">2248546267</idno>
+  
+            <idno type="STC">Wing E850</idno>
+            <idno type="STC">Interim Tract Supplement Guide 1851.c.9[189]</idno>
+            <idno type="STC">Interim Tract Supplement Guide 190.g.13[183]</idno>
+            <idno type="STC">ESTC R25577</idno>
+            <idno type="PROQUEST">ocm99889317</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99889317e"/>
+            <note>(EEBO-TCP ; phase 2, no. B21762)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 193985)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C18:2[189]; C29:2[183])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>At the court at Whitehall, December the thirteenth, 1682. Present the Kings most excellent Majesty, Lord Archbishop of Canterbury ... [19 others] Mr. Godolphin. Whereas it has been represented to His Majesty, that by reason of the frequent abuses of a lewd sort of people called spirits, in seducing many of His Majesties subjects to go on shipboard, where they have been seized and carried by force to His Majesties plantations in America ...</title>
+                  <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+                  <author>Charles II, King of England, 1630-1685.</author>
+               </titleStmt>
+               <extent>2 sheets ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the Assigns of John Bill deceas'd: And by Henry Hills, and Thomas Newcomb, Printers to the Kings most Excellent Majesty.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1682..</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from caption title and first lines of text.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Initial; Steele notation: Arms 96  lewd friends 2) fu- whom.</note>
+                  <note>Filmed copy at reel C18:2[189] consists of one uncut sheet.</note>
+                  <note>Imperfect: copy at reel C29:2[183] bound together, with loss of text at head of second sheet.</note>
+                  <note>Reproductions of originals in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Broadsides --  England --  London --  Early works to 1800.</term>
+               <term type="topical_term">Indentured servants --  North America --  Early works to 1800.</term>
+               <term type="topical_term">Kidnapping --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles II, 1660-1685 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <head>
+               <pb facs="tcp:193985:1"/>
+               <figure>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+                  <head>C R</head>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <q>DIEV ET MON DROIT</q>
+               </figure> At the Court at WHITEHALL, <hi>December</hi> the Thirteenth, 1682.</head>
+            <list>
+               <head>Present,</head>
+               <item>The Kings most Excellent Majesty,</item>
+               <item>Lord Archbishop of <hi>Canterbury</hi>
+               </item>
+               <item>Lord President</item>
+               <item>Lord Privy Seal</item>
+               <item>Duke of <hi>Ormond</hi>
+               </item>
+               <item>Duke of <hi>Albemarle</hi>
+               </item>
+               <item>Duke of <hi>Beaufort</hi>
+               </item>
+               <item>Lord Chamberlain</item>
+               <item>Earl of <hi>Chesterfield</hi>
+               </item>
+               <item>Earl of <hi>Sunderland</hi>
+               </item>
+               <item>Earl of <hi>Clarendon</hi>
+               </item>
+               <item>Earl of <hi>Bathe</hi>
+               </item>
+               <item>Earl of <hi>Craven</hi>
+               </item>
+               <item>Earl of <hi>Conway</hi>
+               </item>
+               <item>Earl of <hi>Rochester</hi>
+               </item>
+               <item>Lord Viscount <hi>Fauconberg</hi>
+               </item>
+               <item>Lord <hi>Finch</hi>
+               </item>
+               <item>Lord Bishop of <hi>London</hi>
+               </item>
+               <item>Lord Chief Justice <hi>North</hi>
+               </item>
+               <item>Mr. Secretary <hi>Jenkins</hi>
+               </item>
+               <item>Mr. Chancellor of the Exchequer</item>
+               <item>
+                  <hi>Mr.</hi> Godolphin.</item>
+            </list>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas it has been Represented to His Majesty, That by reason of the frequent Abuses of a lewd sort of People called Spirits, in Seducing many of His Majesties Subjects to go on Shipboard, where they have been Seized and Carried by Force to His Majesties Plantations in <hi>America;</hi> and that many idle persons who have Listed themselves Voluntarily to be Transported thither, and have received Money upon their entring into Service for that purpose, have afterwards pretended they were Betrayed, and Carried away against their Wills, and procured their Friends to Prosecute the Merchants who Transported them, or in whose Service they are, by Indictments or Informations in the Crown Office in His Majesties Name, which is a great Discouragement to them, and an hindrance to the Management of the Trade of the said Plantations and Navigation of this Kingdom; And several Merchants and Planters having made Humble Applications to His Majesty, That he would be Graciously pleased to direct such Methods for their Retaining of Servants to Serve in His Majesties Plan<g ref="char:EOLhyphen"/>tations, as in His Royal Wisdom he should think meet, whereby His Majesty may be so satisfied of their Fair Dealing, as to take off all Prosecutions against them at His Majesties Suit, and also that the Scandal that now lies upon them in general; by reason of such Evil-disposed Persons▪ may not remain upon such <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> shall for <gap reason="illegible" resp="#murp" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ture follow such Methods as His Majesty shall think fit to be pursued.</p>
+            <p>HIs Majesty taking into His Royal Consideration the said Request, is Graciously pleased to Declare, That such Merchants, Factors, Masters of Ships, or other persons that shall use the Method hereafter following in the Hiring of Servants for His Majesties Plantations, shall not be Disquieted by any Suit on His Majesties behalf, but upon Certificate thereof, That He will cause all such Suits to be Stopped, to the end they may receive no further molestation thereby.</p>
+            <p n="1">I. Such Servants are to be taken by Indenture, to be Executed by the Servant in the presence of the Magistrate or Magistrates hereafter appointed; One part thereof Signed by such Servant, and also Underwritten or Endorsed with the Name and Hand-writing of such Magistrate, which is to remain with the Clerk of the Peace, to be Returned to the next Sessions, there to be Filed upon a distinct File, and Numbred and kept with the Records.</p>
+            <p n="2">II. The Clerk of the Peace is to keep a Fair Book, wherein the Name of the Person so Bound, and the Magistrates Name before whom the same was done, and the time and place of doing thereof, and the Number of the File shall be Entred; and for the more easie finding the same, the Entries are to be made Alphabetically, according to the first Letter of the Surname.</p>
+            <p n="3">III. All Persons above the Age of One and twenty years, or who shall, upon View and Examination, appear to be so in the Judgment of the Magistrate, may be Bound in the presence of One Justice of the Peace, or of the Mayor or Chief Magistrate of the Place where they shall go on Shipboard; who is to be fully satisfied from him of his free and voluntary agreement to enter into the said Service.</p>
+            <p n="4">IV. If any person be under the Age of One and twenty years, or shall appear so to be, he shall be Bound in the presence of the Lord Mayor of <hi>London,</hi> or one of the Judges, or an Alderman of <hi>London</hi> being a Justice of Peace, or the Recorder, or Two Justices of the Peace of any other County or Place, who shall carefully Examin whether the Person so to be Bound, have any Parents or Masters; And if he be not Free, they are not to take such Indenture, unless the Parents or Masters give their Consents, and some Person that knows the said Servant to be of the Name and Addition mentioned in the Indenture, is to Attest his said knowledge upon the said Indenture.</p>
+            <p n="5">V. If the Person be under the Age of Fourteen years, unless his Parents shall be present, and consent, he is not to be carried on Shipboard till a Fortnight at least, after he becomes Bound, to the intent, that if there be any Abuse, it may be discovered before he be Transported. And where his Parents do not appear before the Magistrate, Notice is to be sent to them; or where they cannot be found, to the Church-Wardens or Overseers of the Parish where he was last Settled, in such manner as the said Magistrates shall think fit and direct.</p>
+            <p>And because Clerks of the Peace may conceive this not to be any part of the Duty of their Office, and may therefore exact unreasoable Rewards for their trouble and pains therein, His Majesty doth Declare, That if any Merchants or other Persons shall be aggrieved thereby, and upon Complaint to the Justices, cannot obtain Relief, His Majesty will take such further Care for their ease herein, as in His Royal Wisdom He shall think meet.</p>
+            <p>And His Majesties further Pleasure is, That this Order be Printed and Published, to the end all Persons whom it may concern, may take notice thereof, and Govern themselves accordingly.</p>
+            <closer>
+               <signed>FRANCIS GWYN</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by the Assigns of <hi>John Bill</hi> deceas'd: And by <hi>Henry Hills,</hi> and <hi>Thomas Newcomb,</hi> Printers to the Kings most Excellent Majesty. 1682.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
